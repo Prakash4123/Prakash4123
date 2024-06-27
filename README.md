@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prakash4123
+- 👋 Hi, I’m @Prakash
 - 👀 I’m interested in ...AWS
-- 🌱 I’m currently learning ...AWS
+- 🌱 I’m currently learning ...AWS and DEVOPS
 - 💞️ I’m looking to collaborate on ...AWS WITH DEVOPS
 - 📫 How to reach me ...
 
